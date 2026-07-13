@@ -1,4 +1,4 @@
-# Olá, eu sou **SEU_NOME** 👋
+# Olá, eu sou **Karoline Duffrayer** 👋
 
 Analista de Vigilância em Saúde | Enfermeira | Epidemiologista | Saúde Pública
 
