@@ -8,13 +8,10 @@ Sou **Enfermeira Sanitarista**, com atuação em **Vigilância em Saúde, Epidem
 
 Atualmente atuo como **Analista de Vigilância em Saúde** na **Coordenação de Informações Estratégicas em Vigilância em Saúde (CIEVS Rio)** da Secretaria Municipal de Saúde do Rio de Janeiro, desenvolvendo análises epidemiológicas, monitoramento de eventos de importância em saúde pública e produção de informações estratégicas para subsidiar a tomada de decisão baseada em evidências.
 
-Tenho interesse em integrar **Epidemiologia, Ciência de Dados, Sistemas de Informação e Inteligência Artificial** para apoiar a vigilância e fortalecer as políticas públicas em saúde.
-
 ---
 
 # 🎓 Formação
 
-- 🎓 Bacharelado em Enfermagem — Universidade Federal Fluminense (UFF)
 - 🩺 Residência em Enfermagem em Saúde Coletiva
 - 📊 EpiSUS Intermediário
 - 💻 Especialização em **Sistemas de Informação, Monitoramento e Análise em Saúde Pública** – Fiocruz
