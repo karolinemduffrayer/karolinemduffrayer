@@ -6,7 +6,7 @@
 
 Sou **Enfermeira Sanitarista**, com atuação em **Vigilância em Saúde, Epidemiologia, Inteligência em Saúde Pública e Análise de Dados**.
 
-Atualmente atuo como **Analista de Vigilância em Saúde** na **Coordenação de Informações Estratégicas em Vigilância em Saúde (CIEVS Rio)** da Secretaria Municipal de Saúde do Rio de Janeiro, desenvolvendo análises epidemiológicas, monitoramento de eventos de importância em saúde pública e produção de informações estratégicas para subsidiar a tomada de decisão baseada em evidências.
+Atualmente atuo como Analista de Vigilância em Saúde na Coordenação de Informações Estratégicas em Vigilância em Saúde (CIEVS Rio) da Secretaria Municipal de Saúde do Rio de Janeiro, onde coordeno a Vigilância Sentinela e desenvolvo análises epidemiológicas, monitoramento de eventos de importância em saúde pública e produção de informações estratégicas para apoiar a tomada de decisão baseada em evidências.
 
 ---
 
